@@ -1,0 +1,1 @@
+Garfield, 10, red; Bob, 3, brown; Snowy, 5, white;
